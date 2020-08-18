@@ -1,5 +1,5 @@
 # cranial_covariation
-# please cite this manuscript with any use of this data: Monson TA. 2020. Patterns and magnitudes of craniofacial covariation in extant cercopithecids. The Anatomical Record.
+# please cite this manuscript with any use of these data: Monson TA. 2020. Patterns and magnitudes of craniofacial covariation in extant cercopithecids. The Anatomical Record.
 Patterns and magnitudes of craniofacial covariation in extant cercopithecids
 Tesla A. Monson, Western Washington University
 The Anatomical Record
